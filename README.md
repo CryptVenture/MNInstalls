@@ -1,0 +1,2 @@
+# MNInstalls
+CryptVenture Masternode Installs
